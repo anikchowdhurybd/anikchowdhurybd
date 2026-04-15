@@ -260,3 +260,4 @@ I am building a **global autonomous ecosystem network** where:
 <p align="center">
 ⭐ Explore my ecosystem — where AI, Cloud, and Fintech converge into autonomous systems
 </p>
+<meta name="google-site-verification" content="v979Eet-Nm8ViOBwmxOjbRQWQZ-AjlrTR4KI0mEfiB4" />
