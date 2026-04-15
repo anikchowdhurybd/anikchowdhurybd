@@ -47,10 +47,6 @@ My work goes beyond software development — I build **agentic, revenue-generati
 
 ---
 
-Here’s a **stronger, more investor-grade + DevOps/Agentic AI refined version** of your section. I upgraded it to sound more like a **modern AI infrastructure stack (2026-level positioning)** instead of a simple tool list.
-
----
-
 # 🤖 AI & Agentic Intelligence Systems
 
 ## 🧠 Foundation Models Layer
