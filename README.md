@@ -138,7 +138,9 @@ An AI-native social ecosystem where engagement is driven by intelligent agents.
 
 🌐 https://aquarisol.com
 
-Enterprise-grade AI assistant ecosystem for productivity and automation.
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/Aquarisol-AI)
+
+Social media AI assistant ecosystem for productivity and automation.
 
 * Task automation system
 * AI communication layer
@@ -152,6 +154,7 @@ Enterprise-grade AI assistant ecosystem for productivity and automation.
 
 🌐 https://pay.dadycoin.com
 
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/DadyPay)
 
 API-first payment gateway infrastructure designed for scalable SaaS ecosystems.
 
@@ -164,6 +167,9 @@ API-first payment gateway infrastructure designed for scalable SaaS ecosystems.
 ### 🔹 DadyCoin
 
 🌐 https://dadycoin.com
+
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/dadycoincore)
+
 
 Tokenized digital economy system powering ecosystem-wide monetization.
 
@@ -179,6 +185,9 @@ Tokenized digital economy system powering ecosystem-wide monetization.
 
 🌐 https://smallseoengine.com
 
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/SmallSEOEngine)
+
+
 A large-scale SEO automation ecosystem built on Cloudflare + GCP hybrid architecture.
 
 * 300+ production tools
@@ -189,6 +198,9 @@ A large-scale SEO automation ecosystem built on Cloudflare + GCP hybrid architec
 ---
 
 ## 🧩 WordPress Ecosystem Tools
+
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/wordpress-plugins-project)
+
 
 * Smart TOC Series (Smart Table of Contents / Pro)
 * Automated content structuring tools
