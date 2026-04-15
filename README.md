@@ -23,7 +23,7 @@ My core focus is transforming software into **self-sustaining, cloud-deployed re
 
 ---
 
-# ☁️ Cloud & DevOps Infrastructure (NEW)
+# ☁️ Cloud & DevOps Infrastructure
 
 ### 🔹 Google Cloud Platform (GCP)
 
