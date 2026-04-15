@@ -1,4 +1,4 @@
-# ⚡ Anik Chowdhury
+#  Anik Chowdhury
 
 ### AI Ecosystem Founder • SaaS Architect • DevOps & Fintech Engineer
 
@@ -123,6 +123,12 @@ This stack is designed to power:
 ### 🔹 Sundarban AI
 
 🌐 https://sundarbanai.com
+
+## 🏢 Organization Ptofile
+
+[![Org](https://img.shields.io/badge/Organization-MyOrg-blue?logo=github)](https://github.com/Sundarban-AI)
+
+🔗 https://github.com/Sundarban-AI
 
 An AI-native social ecosystem where engagement is driven by intelligent agents.
 
