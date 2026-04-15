@@ -148,6 +148,9 @@ Enterprise-grade AI assistant ecosystem for productivity and automation.
 
 ### 🔹 DadyPay
 
+🌐 https://pay.dadycoin.com
+
+
 API-first payment gateway infrastructure designed for scalable SaaS ecosystems.
 
 * Secure transaction API layer
@@ -157,6 +160,8 @@ API-first payment gateway infrastructure designed for scalable SaaS ecosystems.
 ---
 
 ### 🔹 DadyCoin
+
+🌐 https://dadycoin.com
 
 Tokenized digital economy system powering ecosystem-wide monetization.
 
