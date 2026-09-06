@@ -1,7 +1,7 @@
 #  Anik Chowdhury
 <meta name="google-site-verification" content="v979Eet-Nm8ViOBwmxOjbRQWQZ-AjlrTR4KI0mEfiB4" />
 
-### Founder & CTO • SaaS Architect • DevOps & Fintech Engineer
+### Founder & CTO • Full Stack Developer • DevOps & Fintech Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=1000&lines=Architecting+Agentic+AI+Ecosystems;SaaS+%7C+Fintech+%7C+DevOps+%7C+Cloud-Native+Systems;Building+Autonomous+Revenue+Infrastructure" />
